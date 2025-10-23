@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Received files (optional, depends on where you save)
+received_files/
+*.download
